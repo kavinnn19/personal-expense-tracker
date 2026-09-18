@@ -1,0 +1,7 @@
+[
+  "tests/test_expense_manager.py::test_add_expense",
+  "tests/test_expense_manager.py::test_calculate_total",
+  "tests/test_expense_manager.py::test_category_totals",
+  "tests/test_expense_manager.py::test_delete_expense",
+  "tests/test_expense_manager.py::test_search_expenses"
+]
